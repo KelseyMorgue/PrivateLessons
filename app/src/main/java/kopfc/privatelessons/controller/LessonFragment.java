@@ -1,4 +1,4 @@
-package kopfc.privatelessons.model;
+package kopfc.privatelessons.controller;
 
 import android.content.Context;
 import android.net.Uri;
@@ -83,7 +83,7 @@ public class LessonFragment extends Fragment
         }
     }
 
-    @Override
+//    @Override
     public void onAttach(Context context)
     {
         super.onAttach(context);

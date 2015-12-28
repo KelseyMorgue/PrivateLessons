@@ -1,9 +1,11 @@
-package kopfc.privatelessons;
+package kopfc.privatelessons.controller;
 
 import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
+
+import kopfc.privatelessons.R;
 
 public class BiosActivity extends ActionBarActivity
 {

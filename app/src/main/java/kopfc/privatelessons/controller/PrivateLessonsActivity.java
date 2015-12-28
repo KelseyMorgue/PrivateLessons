@@ -1,4 +1,4 @@
-package kopfc.privatelessons;
+package kopfc.privatelessons.controller;
 
 import android.app.FragmentManager;
 import android.app.Fragment;
@@ -15,6 +15,8 @@ import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.ListView;
 import android.widget.Toast;
+
+import kopfc.privatelessons.R;
 
 
 public class PrivateLessonsActivity extends ActionBarActivity
