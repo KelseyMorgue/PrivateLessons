@@ -33,6 +33,27 @@
     <string name="weekend">Saturday Lessons</string>
     <string name="reminder">Remember, you need to contact the instructor before you pay for the lessons</string>
 
+
+    <string name="waterBabies">Water Babies</string>
+    <string name="seahorse">Seahorse</string>
+    <string name="clownfish">Clownfish</string>
+    <string name="turtle">Turtle</string>
+    <string name="crab">Crab</string>
+    <string name="penguin">Penguin</string>
+    <string name="dolphin">Dolphin</string>
+    <string name="whale">Whale</string>
+    <string name="shark">Shark</string>
+
+    <string name="waterBabiesContent">Description:The Water Babies class helps promote water safety and practices; water adjustment; as well as swimming readiness, skills, fun, and enjoyment of the water. This is NOT a “drown-proof” class! Entry Skills: None</string>
+    <string name="seahorseContent">Description:The Seahorse class helps acclimate students to the water and begin building the foundation for learning Elementary Backstroke, Freestyle, and Backstroke. Entry Skills: None</string>
+    <string name="clownfishContent">Description:The Clownfish class is designed to build upon the Seahorse class, continuing to help students experience confidence in the water and begin learning the first progressions for Freestyle. Entry Skills: Float on back (either monkey, airplane, soldier) for five seconds. Front float (face in water blowing bubbles) for three seconds.  Both front and back glides with kicking (for two body lengths). Five bobs, each bob for 3 seconds (blowing bubbles through mouth and nose). Rolling from a back float, to a front float and visa versa with assistance.</string>
+    <string name="turtleContent">Description:The Turtle class may be the most important of the classes, in this class students will begin to see some major qualitative changes along with some quantitative changes as well. Entry Skills: Seven bobs, each bob for 3 seconds (unassisted). Front glide with kicks (rolling to the side to breathe) two times. Five cycles of Elementary Backstroke.</string>
+    <string name="crabContent">Description:The Crab class builds upon known skills and refines the Elementary Backstroke, Freestyle, and Backstroke. The focus will be more on the quality of the strokes rather than the quantity of the strokes. Entry Skills: Fifteen cycles of Elementary Backstroke. Five cycles of Freestyle. Five cycles of Backstroke. Kicking with a kickboard for 8 yards.</string>
+    <string name="penguinContent">Description: Once students have mastered this class they will have developed a strong foundation for swimming, know and be able to swim 50 yards of Elementary Backstroke and 25 yards Freestyle and Backstroke. Not only will they have confidence in the water they will also have a clear understanding of being water safe and safety smart. Entry Skills: 25 yards of Elementary Back Stroke. 15 yards Freestyle. 15 yards Backstroke. Treading water for fifteen seconds. Being able to jump into deep water and swim back to the wall.</string>
+    <string name="dolphinContent">Description: In the Dolphin class students will focus on building endurance, learning a competitive Backstroke and learning a new stroke-Butterfly. Having a good understanding of Butterfly will lead to an easier time learning the Breaststroke in the next class. Entry Skills: Perform a kneeling dive. Swim 25 yards Freestyle, turn and swim 25 yards Backstroke. Treading water for thirty seconds.</string>
+    <string name="whaleContent">Description: The Whale Class is all about Breaststroke. By refining previously learned strokes makes it easier on students to learn only one “new” stroke. For students to be successful in the Whale class they need to have a good endurance and stroke knowledge. Entry Skills: 15 yards Butterfly (students must have stroke timing down). 50 yards of Backstroke. 50 yards of Freestyle. Treading water for forty-five seconds</string>
+    <string name="sharkContent">Description: The Shark class is designed to work on endurance, refine Butterfly and Breaststroke, and put together all the student’s stroke knowledge. They will have the knowledge and understanding of the four competitive strokes, be water safe, and feel confidant in their swimming abilities. Entry Skills: Swim non-stop:15 yards of Breaststroke; 25 yards of Butterfly; 75 yards of Freestyle; 75 yards Backstroke; Treading for 1 minute and 30 seconds.</string>
+
     <string-array name="mainDrawerContents">
         <item>Schedule</item>
         <item>Classes</item>
