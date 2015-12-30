@@ -28,9 +28,18 @@
     <string name="freeStroke">Freestyle</string>
     <string name="backStroke">Backstroke</string>
     <string name="breastStroke">Breaststroke</string>
-    <string name="morn">Morning Lessons</string>
-    <string name="after">Afternoon Lessons</string>
+    <string name="monMorn">Monday Morning Lessons</string>
+    <string name="tuesMorn">Tuesday Morning Lessons</string>
+    <string name="wedMorn">Wednesday Morning Lessons</string>
+    <string name="thursMorn">Thursday Morning Lessons</string>
+    <string name="friMorn">Friday Morning Lessons</string>
+    <string name="monAfter">Monday Afternoon Lessons</string>
+    <string name="tuesAfter">Tuesday Afternoon Lessons</string>
+    <strings name="wedAfter">Wednesday Afternoon Lessons</strings>
+    <strings name="thursAfter">Thursday Afternoon Lessons</strings>
+    <strings name="friAfter">Friday Afternoon Lessons</strings>
     <string name="weekend">Saturday Lessons</string>
+    <string name="requestContact">Lessons Upon Request or Contact for Availability </string>
     <string name="reminder">Remember, you need to contact the instructor before you pay for the lessons</string>
 
 
